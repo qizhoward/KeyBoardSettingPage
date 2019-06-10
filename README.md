@@ -122,7 +122,97 @@
 以下,为,索尼为例子：                                                                     </br>
     
 
-
+                                      按下　               　　    抬起　                 长按　 　     　　　</br>
+             
+             键盘鼠标右键                                                                                    </br>  
+             
+             左CTRL                                                                          　　       　　</br> 
+             左ALT                                                                                          </br>
+             空格键                                                                                         </br>
+             PrtScrSysRq                                                                                     </br>
+             PauseBreak                                                                                     </br>
+             ScrollLock                                                                                     </br>
+             Insert                                                                                        </br>
+             Home                                                                                          </br> 
+                                                                                                            </br> 
+             PageUp                                                                                     　  </br>
+             Delete                                                                             　          </br>
+             End                                                                                            </br>
+             PageDown                                                                                       </br>
+             NumLock                                                                                        </br>
+             F1                                                                                             </br>
+             F2                                                                                             </br>
+             F3                                                                                             </br>
+             F4                                                                                             </br>
+             F5                                                                                             </br>
+             F6                                                                                             </br>
+             F7                                                                                             </br>
+             F8                                                                                             </br>
+             F9                                                                                             </br>
+             F10                                                                                            </br>
+             F11                                                                                            </br>
+             F12                                                                                            </br>
+             Tab                                                                                            </br>
+             CapsLock                                                                                       </br>
+             左Shift                                                                                        </br>
+             右Shift                                                                                        </br>
+             左win键                                                                                        </br>
+             右win键                                                                                        </br>
+             键盘向左箭头删除键                                                                              </br>
+             键盘回车键                                                                                      </br>
+             小键盘回车键                                                                                    </br>
+             
+             
+             键盘向上指针按钮                                                                                </br>
+             键盘向下指针按钮                                                                                </br>
+             键盘向左指针按钮                                                                                </br>
+             键盘向右指针按钮                                                                                </br>
+             
+             
+             
+             双定义按钮：                                                                                    </br>
+             
+             0INS                                                                                           </br>
+             .Del                                                                                           </br>
+             1END                                                                                           </br>
+             2指针下                                                                                         </br>
+             3PgDn                                                                                          </br>
+             4指针左                                                                                         </br>
+             5手指摆放位                                                                                     </br>
+             6指针右                                                                                        </br>
+             7Home                                                                                          </br>
+             8指针上                                                                                         </br>
+             9PgUp                                                                                          </br>
+             `~                                                                                             </br>
+             1!                                                                                             </br>
+             2@                                                                                             </br>
+             3#                                                                                             </br>
+             4$                                                                                             </br>
+             5%                                                                                             </br>
+             6^                                                                                             </br>
+             7&                                                                                             </br>
+             8*                                                                                             </br>
+             9(                                                                                             </br>
+             0)                                                                                             </br>
+             -_                                                                                             </br>
+             =+                                                                                             </br>
+             \|                                                                                             </br>
+             [{                                                                                             </br>
+             }}                                                                                             </br>
+             ;:                                                                                             </br>
+             '"                                                                                             </br>
+             ,<                                                                                             </br>
+             .>                                                                                             </br>
+             /?                                                                                             </br>
+             F左手,手指摆放                                                                                  </br>
+             J右手,手指摆放　                                                                                </br>
+             
+             组合按钮,组合键：                                                                               </br>
+             
+             左win键,或者右win键,加空格键                                                                     </br>
+             
+             文件,或者文件夹上：
+             
 
 
 
