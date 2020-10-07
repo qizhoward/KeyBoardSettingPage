@@ -216,6 +216,6 @@
              
 
 
-
+在table for IBM键盘下,ScrollLock键好用,在微软中文输入法状态下,有时ScrollLock键与字母i键冲突
 
 
